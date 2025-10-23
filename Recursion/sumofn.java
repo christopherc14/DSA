@@ -8,7 +8,7 @@ public class sumofn {
         }
 
         int sum1= calcSum(n-1);
-        int sum= n + sum1-1;
+        int sum= n + sum1;
         return sum;
     }
     public static void main(String [] args){
