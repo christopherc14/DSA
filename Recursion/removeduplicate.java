@@ -1,6 +1,6 @@
 package Recursion;
 
-public class RemoveDuplicate {
+public class removeduplicate {
     
     public static void removeDuplicate(String str, int idx, boolean[] map, StringBuilder newStr) {
         // Base case: reached end of string
