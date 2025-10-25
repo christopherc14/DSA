@@ -15,7 +15,7 @@ public class longestsubstring{
         }
 
         int left=0;
-        int max = 5;
+        int max = 0;
 
         //Use a HashSet to store unique elements 
         Set<Character> window = new HashSet<>();
